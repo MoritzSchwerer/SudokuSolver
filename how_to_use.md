@@ -1,4 +1,4 @@
-#How to use:
+# How to use:
 
 for all the steps you need to have python3 installed on your machine
 
