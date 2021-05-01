@@ -9,8 +9,6 @@ pygame.init()
 # window
 WIN = pygame.display.set_mode((WIDTH,HEIGHT))
 pygame.display.set_caption("Sudoku Solver")
-icon = pygame.image.load('images/pastime.png')
-pygame.display.set_icon(icon)
 font = pygame.font.Font('freesansbold.ttf', 70)
 color = []
 fontS = pygame.font.Font('freesansbold.ttf', 30)
